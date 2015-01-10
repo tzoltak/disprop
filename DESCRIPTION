@@ -1,0 +1,11 @@
+Encoding: UTF-8
+Package: disprop
+Title: Functions to calculate different disproportonality measures
+Version: 0.3
+Date: 2015-01-05
+Author: Tomasz Zoltak <tomek@zozlak.org>
+Maintainer: Tomasz Zoltak <tomek@zozlak.org>
+Description: More about what it does (maybe more than one line)
+License: LGPL-3
+Language: pl
+NeedsCompilation: no

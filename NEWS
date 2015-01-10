@@ -1,0 +1,12 @@
+--------------------
+Zmiany w disprop 0.3 (2015-01-05)
+
+- Bardziej elastyczna dekompozycja w funkcjach wyliczających wskaźniki dekomonowalne
+  "horyzontalnie": .
+- Dekompozycja wskaźnika w funkcji var_disprop().
+
+--------------------
+Zmiany w disprop 0.2.1 (2014-10-25)
+
+- Poprawiona dokumentacja funkcji var_disprop() - przykłady dekompozycji wskaźnika przy
+  zastosowaniu unormowania.
